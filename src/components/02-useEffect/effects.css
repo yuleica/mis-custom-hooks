@@ -1,0 +1,16 @@
+
+body{
+    padding: 70px;
+    background-color: darksalmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p, footer{
+    padding: 5px;
+}
+
+.btn{
+    display: flex;
+    padding-top: 5px;
+}
+
